@@ -5,7 +5,7 @@
         "rank": 1,
         "achieverId": 11,
         "achieverName": "Equipe test",
-        "achieverCompany": "kiplin",
+        "achieverCompany": "Company Test",
         "score": 0,
         "current": false
       },
@@ -13,7 +13,7 @@
         "rank": 1,
         "achieverId": 13,
         "achieverName": "SupaTeama",
-        "achieverCompany": "benevolt",
+        "achieverCompany": "anther company",
         "score": 0,
         "current": true
       }
