@@ -2,20 +2,10 @@
   "ranking": {
     "general": [
       {
-        "rank": 1,
-        "achieverId": 11,
-        "achieverName": "Equipe test",
-        "achieverCompany": "Company Test",
-        "score": 0,
-        "current": false
+        "id": 1
       },
       {
-        "rank": 1,
-        "achieverId": 13,
-        "achieverName": "SupaTeama",
-        "achieverCompany": "anther company",
-        "score": 0,
-        "current": true
+        "id": 2
       }
     ]
   }
